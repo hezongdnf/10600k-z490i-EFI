@@ -21,7 +21,3 @@ handoff 接力
 airdrop 隔空投送
 
 sidecar 随航
-
----
-
-opencore版本 0.6.7
