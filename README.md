@@ -8,14 +8,19 @@ CPU：10600k
 
 显卡：GTX780 6G
 
-网卡：bcm94360cs2
+网卡：bcm943602CS
 
 ---
 
 开启核显和硬解
 
-
 定制USB
+
+handoff 接力
+
+airdrop 隔空投送
+
+sidecar 随航
 
 ---
 
